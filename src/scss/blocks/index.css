@@ -1,0 +1,16 @@
+@import "_header.css";
+@import "_nav.css";
+@import "_main.css";
+@import "_articles.css";
+@import "_schedule.css";
+@import "_news.css";
+@import "_album.css";
+@import "_footer.css";
+
+body {
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(92, 231, 92, 1) 100%
+    );
+}

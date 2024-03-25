@@ -1,0 +1,13 @@
+.schedule {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.schedule__head-data {
+    border: 1px solid black;
+}
+
+.schedule__data {
+    border: 1px solid black;
+    text-align: center;
+}
